@@ -1,0 +1,6 @@
+google.com, pub-4489546446191995, DIRECT, f08c47fec0942fa0
+unity.com, 4769839, DIRECT, 96cabb5fbdde37a7
+improvedigital.com, 2181, RESELLER
+Peak226.com, 12900, RESELLER
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+google.com, pub-5058382621596564, DIRECT, f08c47fec0942fa0
